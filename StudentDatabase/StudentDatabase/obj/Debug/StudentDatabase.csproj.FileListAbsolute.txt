@@ -1,0 +1,13 @@
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Form1.resources
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Properties.Resources.resources
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.GenerateResource.cache
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\bin\Debug\System.Data.SQLite.dll
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\bin\Debug\System.Data.SQLite.xml
+C:\Users\warid\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentD.AC84E7A9.Up2Date
